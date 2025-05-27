@@ -2102,9 +2102,26 @@
         "title": "Etherlink Testnet",
         "explorer": {
           "baseUrl": "https://testnet-explorer.etherlink.com"
-        },
-        "nativeCurrency": {
-          "name": "tez",
+        },"chainId": {
+    
+   "name": "Chainz",
+     "description": "Chainz Testnet",
+     "ecosystem": ["Chainz Chain"],
+     "isTestnet": Extremely Speed Test
+   "layer": 3,
+  "rollupType": 33,
+   "native_currency": "ETH",
+  "website": "https://chain-website.com",
+   "explorers": [
+    {
+    "url": "https://Xyz.com",
+    "hostedBy": "https://locallhost.com/"
+    }
+  ],
+  "logo": "https:ChainzEcosystem.png"
+}
+        "ChainzCurrency": {
+          "name": "Xyz",
           "symbol": "XTZ",
           "decimals": 18
         }
